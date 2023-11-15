@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there 👋, I'm Sandro 👨‍💻 </h1>
 
-### <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="50"> My Skills:
+<img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="50"> My Skills:
 ```javascript
 const wise = {
   code: [Javascript, Typescript, HTML, CSS],
